@@ -3,10 +3,17 @@
 This repo contains code to some practical use cases for self-joins in sql 
 
 ## Table of Contents
-- [M-o-M Retention]()
+- [M-o-M Retention](#m-o-m-retention)
 
 
 
 ***
 
-## M-o-M Retention
+## 1 M-o-M Retention
+
+Here, I use self joins to calculate Monthly Retention from a subset of dummy transaction data
+
+view data [Here](https://docs.google.com/spreadsheets/d/17vFUhNXdI5TcXv3Pg1Br1LYq3B_sMPXQMPenTHUkiCY/edit#gid=374816984)
+
+<img width="283" alt="image" src="https://user-images.githubusercontent.com/26783786/199295024-18885108-9fcc-4010-9864-009dcc6d2160.png">
+
