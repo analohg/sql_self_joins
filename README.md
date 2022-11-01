@@ -9,7 +9,7 @@ This repo contains code to some practical use cases for self-joins in sql
 
 ***
 
-## 1 M-o-M Retention
+## M-o-M Retention
 
 Here, I use self joins to calculate Monthly Retention from a subset of dummy transaction data
 
