@@ -4,7 +4,7 @@ This repo contains code to some practical use cases for self-joins in sql
 
 ## Table of Contents
 - [M-o-M Retention](#m-o-m-retention)
-- [Monthly Revenue Retention)(#monthly-revenue-retention)
+- [Monthly Revenue Retention](#monthly-revenue-retention)
 
 
 
