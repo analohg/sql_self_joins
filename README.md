@@ -22,3 +22,6 @@ view data [Here](https://docs.google.com/spreadsheets/d/17vFUhNXdI5TcXv3Pg1Br1LY
 ## Monthly Revenue Retention
 
 Here, I use self joins to calculate Revenue Retention from a subset of dummy transaction data
+
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/26783786/200661695-97dd123e-55fd-459f-a23a-3933953683a1.png">
+
