@@ -5,6 +5,7 @@ This repo contains code to some practical use cases for self-joins in sql
 ## Table of Contents
 - [M-o-M Retention](#m-o-m-retention)
 - [Monthly Revenue Retention](#monthly-revenue-retention)
+- [Quarterly Revenue Retention)(#quarterly-revenue-retention)
 
 
 
@@ -23,5 +24,12 @@ view data [Here](https://docs.google.com/spreadsheets/d/17vFUhNXdI5TcXv3Pg1Br1LY
 
 Here, I use self joins to calculate Revenue Retention from a subset of dummy transaction data
 
-<img width="455" alt="image" src="https://user-images.githubusercontent.com/26783786/200661695-97dd123e-55fd-459f-a23a-3933953683a1.png">
+<img width="266" alt="image" src="https://user-images.githubusercontent.com/26783786/202577535-cb2ea978-89f6-4c65-baab-a0a73d239317.png">
+
+
+## Quartetly Revenue Retention
+
+Here, I use self joins to calculate Revenue Retention from a subset of dummy transaction data
+
+<img width="268" alt="image" src="https://user-images.githubusercontent.com/26783786/202577243-e8bba584-1795-4dfa-b411-f6b23eba039e.png">
 
