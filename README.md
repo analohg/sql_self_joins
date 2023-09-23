@@ -27,7 +27,7 @@ Here, I use self joins to calculate Revenue Retention from a subset of dummy tra
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/26783786/202577535-cb2ea978-89f6-4c65-baab-a0a73d239317.png">
 
 
-## Quartetly Revenue Retention
+## Quarterly Revenue Retention
 
 Here, I use self joins to calculate Revenue Retention from a subset of dummy transaction data
 
